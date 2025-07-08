@@ -7,3 +7,5 @@
 - **Java `21+`**
 - **Project Management Tool: `Maven`**
 - **Spring `3.5.3`**
+- **Entities:**
+  - **`Todo`**

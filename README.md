@@ -9,3 +9,4 @@
 - **Spring `3.5.3`**
 - **Entities:**
   - **`Todo`**
+  - **`User`**

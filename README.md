@@ -10,3 +10,4 @@
 - **Entities:**
   - **`Todo`**
   - **`User`**
+  - **`Authority`**

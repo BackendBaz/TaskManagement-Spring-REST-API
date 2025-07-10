@@ -12,3 +12,4 @@
   - **`User`**
   - **`Authority`**
 - **`Mysql` Database (by Docker)**
+- **`Swagger` documentation**
